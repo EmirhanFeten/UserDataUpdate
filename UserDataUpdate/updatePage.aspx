@@ -38,7 +38,7 @@
 
             <div class="col-12 col-md-12">
                 <div class="mb-4">
-                    <h4 class="font-weight-semi-bold mb-4">Register</h4>
+                    <h4 class="font-weight-semi-bold mb-4">Update</h4>
                     <div class="row">
                         <div class="col-md-12 form-group">                            
                             <asp:TextBox class="form-control"  ID="TextBox1" runat="server"></asp:TextBox>
